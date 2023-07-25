@@ -9,13 +9,3 @@ I'm interested in coffee, natural languages, functional programming, and music -
 If you want to stay up to date with what I'm doing, you can check out my little blog at [sophiebos.io](sophiebos.io).
 
 You can reach me via email on sabosio@uio.no, or here on GitHub.
-
-### Projects
-
-This is my last semester of just courses before beginning my thesis proper.
-
-This semester, I am taking the following courses:
-- IN5570 - Distributed Objects
-- IN5580 -  Computability Theory
-- INF5110 - Compiler Construction
-- Special curriculum in Advanced Functional Programming, Semantics, and Types
