@@ -6,6 +6,6 @@ I'm currently a Master's student at the University of Oslo, in Programming and S
 
 I'm interested in coffee, natural languages, functional programming, and music -- and I'm always learning more! 🌱
 
-If you want to stay up to date with what I'm doing, you can check out my little blog at [sophiebos.io](https//sophiebos.io).
+If you want to stay up to date with what I'm doing, you can check out my little blog at [sophiebos.io](https://sophiebos.io).
 
 You can reach me via email on sabosio@uio.no, or here on GitHub.
